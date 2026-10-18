@@ -1,0 +1,5 @@
+repo: https://github.com/SethKitchen/ThreeMojo
+# Seth Kitchen
+primary_contact: seth.kitchen+anthropicoss@seth.kitchen
+homepage: https://github.com/SethKitchen/ThreeMojo
+dockerfile: .oss-scanner/Dockerfile
